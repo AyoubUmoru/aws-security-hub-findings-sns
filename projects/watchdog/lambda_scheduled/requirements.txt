@@ -1,0 +1,4 @@
+uuid1
+simplejson
+boto3
+python-dateutil

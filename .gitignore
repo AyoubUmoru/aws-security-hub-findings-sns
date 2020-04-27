@@ -1,0 +1,8 @@
+creds.aws
+lambda_sechub.zip
+terraform.tfstate
+terraform.tfstate.backup
+package
+.terraform
+.zip
+.DS_Store
